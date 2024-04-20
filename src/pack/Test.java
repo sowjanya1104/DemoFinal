@@ -18,6 +18,14 @@ public class Test {
 	{
 		return x*y;
 	}
+	public int div(int x,int y)
+	{
+		return x/y;
+	}
+	public void message()
+	{
+		System.out.println("hello");
+	}
 	
 
 }
