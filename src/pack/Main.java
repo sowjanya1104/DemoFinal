@@ -5,6 +5,7 @@ public class Main {
 	{
 		System.out.println("hello world");
 		System.out.println("my first message");
+		System.out.println("my second message");
 		
 	}
 
